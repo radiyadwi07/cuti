@@ -1,0 +1,13 @@
+USER TEST:
+
+1. User Level Pegawai
+    user: user@gmail.com
+    pass: user
+
+2. User Level Manager
+    user: manager
+    pass: manager
+
+3. User Level Admin
+    user: admin
+    pass: admin
